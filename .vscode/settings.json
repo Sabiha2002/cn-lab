@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
